@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="# Standards for Commit Messages&#10;---&#10;## General Guidelines&#10;- Use the imperative mood in commit messages (e.g., &quot;Fix bug&quot; instead of &quot;Fixed bug&quot; or &quot;Fixes bug&quot;).&#10;- Keep the subject line concise (50 characters or less) and provide a detailed description in the body if necessary.&#10;- Separate the subject from the body with a blank line.&#10;- Use the body to explain what and why, not how.&#10;- Limit lines in the body to 72 characters for better readability.&#10;- Reference relevant issues or pull requests in the commit message when applicable.&#10;- Use consistent formatting for commit messages across the project.&#10;- Avoid using vague terms like &quot;fix&quot;, &quot;update&quot;, or &quot;change&quot; without context.&#10;- Proofread commit messages for clarity and correctness before finalising.&#10;- If the commit is associated with an Azure DevOps work item, always start the commit message with the work item ID, then a space,&#10;  then the message (e.g., &quot;CP-XXXXX Example message&quot;).&#10;    - The Azure DevOps work item ID will often be found in the branch name, e.g., in `feature/CP-XXXXX-add-new-api-endpoint`, the work item ID is `CP-XXXXX`.&#10;    - For commits that are not associated with a work item (such as automated commits, dependency updates, or minor documentation fixes),&#10;      the work item ID is not required. In these cases, start the commit message directly with the summary.&#10;- Australian or American English spelling is acceptable.&#10;&#10;## Example Commit Message Structure&#10;```&#10;CP-XXXXX Short (50 chars or less) summary of changes&#10;&#10;Detailed explanation of the changes, if necessary. This can&#10;span multiple lines and should provide context for the changes made.&#10;Limit lines to 72 characters in this section.&#10;See related Pull Requests: #123, #456&#10;```" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="AIIgnoreSettings">
+    <option name="aiignore_enabled" value="false" />
+  </component>
+  <component name="GHAISettings">{}</component>
+  <component name="GoImports">
+    <option name="excludedPackages">
+      <array>
+        <option value="github.com/pkg/errors" />
+        <option value="golang.org/x/net/context" />
+      </array>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider">{}</component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
+  </component>
+  <component name="MavenRunner">
+    <option name="environmentProperties">
+      <map>
+        <entry key="JAVA_HOME" value="/apps/jdk21" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>
