@@ -11,7 +11,8 @@ starting out or figuring out their next step.
   engineering, ethical hacking, and secure coding. Covers what a typical day
   looks like, the skills that matter most, qualifications and training,
   opportunities for growth, common misunderstandings, and recommended books,
-  podcasts, and platforms to follow.
+  podcasts, and platforms to follow. Written for the [Inspiring Brighter
+  Futures Onwards and Upwards Schools Program](https://inspiringbrighterfutures.com/our-programs/onwards-upwards-programs/schools-program/).
 
 ## About
 
