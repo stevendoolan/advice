@@ -7,7 +7,7 @@ subtitle: "IBFF Onwards and Upwards, 12 June 2026"
 
 - **Mentor:** Steven
 - **Subject:** IT, Software Engineering, Ethical Hacking, Secure Coding
-- **Context:** Advice for High School students interested in computers, IT etc.
+- **Context:** Advice for High School students interested in computers and IT
 
 ## 1. What does a typical day in your job look like?
 
