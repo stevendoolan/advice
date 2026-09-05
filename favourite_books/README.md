@@ -7,6 +7,8 @@
   - Crucial Confrontations / Crucial Accountability
   - Influencer / Crucial Influence
 - Leadership Strategy and Tactics Field Manual by Jocko Willink
+- The Resilience Project by Hugh van Cuylenburg
+- The 7 Habits of Highly Effective People by Stephen R Covey
 - Mastermind: How to Think Like Sherlock Holmes by Maria Konnikova
 
 ## Technical Skills
