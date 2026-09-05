@@ -6,7 +6,7 @@
   - [Crucial Conversations](favourite_books/Crucial%20Conversations.md)
   - Crucial Confrontations / Crucial Accountability
   - Influencer / Crucial Influence
-- Mastermind: How to Think Like Sherlock Holmes** by Maria Konnikova
+- Mastermind: How to Think Like Sherlock Holmes by Maria Konnikova
 
 ## Technical Skills
 
