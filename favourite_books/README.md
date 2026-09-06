@@ -3,7 +3,7 @@
 ## People Skills
 
 - Crucial Learning books by Kerry Patterson and company:
-  - [Crucial Conversations](favourite_books/Crucial%20Conversations.md)
+  - [Crucial Conversations](Crucial%20Conversations.md)
   - Crucial Confrontations / Crucial Accountability
   - Influencer / Crucial Influence
 - Leadership Strategy and Tactics Field Manual by Jocko Willink
