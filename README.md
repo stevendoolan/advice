@@ -4,6 +4,11 @@ A collection of career and mentoring advice written by Steven Doolan. Each docum
 captures answers, guidance, and lessons learned, aimed at people starting out or
 figuring out their next step.
 
+## Contents
+
+- [Favourite Books](favourite_books/README.md)
+- [Tips and Advice for using AI](ai/README.md)
+
 ## Documents
 
 ### Career Mentoring: IBFF Onwards and Upwards (12 June 2026)
@@ -15,12 +20,6 @@ ethical hacking, and secure coding. Covers what a typical day looks like, the sk
 that matter most, qualifications and training, opportunities for growth, common
 misunderstandings, and recommended books, podcasts, and platforms. Written for the
 [Inspiring Brighter Futures Onwards and Upwards Schools Program](https://inspiringbrighterfutures.com/our-programs/onwards-upwards-programs/schools-program/).
-
-### Favourite Books
-
-[favourite_books/README.md](favourite_books/README.md)
-
-A reading list curated by Steven Doolan.
 
 ## About
 
